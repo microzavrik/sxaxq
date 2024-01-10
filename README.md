@@ -1,6 +1,6 @@
 ### About me
 
-:black_circle: I'm currently exploring graphic rendering libraries such as: Vulkan, OpenGL.
+:black_circle: I'm currently exploring graphic rendering libraries such as: Vulkan, OpenGL.          <div class="tenor-gif-embed" data-postid="21075258" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-hello-world-c-programming-programming-gif-21075258">Coding Hello World GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 :black_circle: Also my stack includes: boost.asio, curl, qt, sfml
 
