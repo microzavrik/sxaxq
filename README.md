@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/kakhovkagenhacker/badges/large)](https://www.codewars.com/users/kakhovkagenhacker)   
+[![codewars](https://www.codewars.com/users/kakhovkanextgenhacker/badges/large)](https://www.codewars.com/users/kakhovkanextgenhacker)   
