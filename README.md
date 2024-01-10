@@ -4,7 +4,7 @@
 
 :black_circle: Also my stack includes: boost.asio, curl, qt, sfml
 
-[![codewars](https://github.com/sxaxq/sxaxq/blob/master/images/coding-hello-world.gif)](https://tenor.com/ru/view/coding-hello-world-c-programming-programming-gif-21075258)   
+![Image alt](https://github.com/sxaxq/sxaxq/blob/master/images/coding-hello-world.gif)
 
 ### Contact me:
 
