@@ -4,6 +4,8 @@
 
 :black_circle: Also my stack includes: boost.asio, curl, qt, sfml
 
+<a href="microbebr1k"><img alt="C++" src="https://github.com/sxaxq/sxaxq/blob/master/images/coding-hello-world.gif"></a>
+
 
 ### Contact me:
 
