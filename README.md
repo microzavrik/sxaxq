@@ -1,3 +1,9 @@
+### Contact me:
+
+<a href="microbebr1k"><img alt="C++" src="https://github.com/sxaxq/sxaxq/blob/master/images/Discord.png"></a>
+<a href="sxaxq7@gmail.com"><img alt="C++" src="https://github.com/sxaxq/sxaxq/blob/master/images/Gmail.png"></a>
+<a href="https://t.me/microzavrik"><img alt="C++" src="https://github.com/sxaxq/sxaxq/blob/master/images/Telegram.png"></a>
+
 ### Codewars account
 [![codewars](https://www.codewars.com/users/kakhovkanextgenhacker/badges/large)](https://www.codewars.com/users/kakhovkanextgenhacker)   
 
