@@ -1,6 +1,7 @@
 ### About me
 
 :black_circle: I'm currently exploring graphic rendering libraries such as: Vulkan, OpenGL.
+
 :black_circle: Also my stack includes: boost.asio, curl, qt, sfml
 
 
